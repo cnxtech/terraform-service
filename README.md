@@ -1,6 +1,6 @@
 # terraform-service
 
-Terraform module to create an AWS ECS service using a provided container definitions.
+Terraform module to create an AWS ECS service using provided container definitions.
 
 ## Inputs
 
